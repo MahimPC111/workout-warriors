@@ -1,0 +1,44 @@
+[
+    {
+        "id": "01",
+        "title": "Lunges",
+        "age": "20-30",
+        "time": "20",
+        "img": "https://hips.hearstapps.com/hmg-prod/images/reverse-lunges-1544222100.jpg"
+    },
+    {
+        "id": "02",
+        "title": "Pushups",
+        "age": "20-30",
+        "time": "15",
+        "img": "https://assets.gqindia.com/photos/5cee7eb00379a73d25177759/master/pass/Pushup.jpg"
+    },
+    {
+        "id": "03",
+        "title": "Squats",
+        "age": "20-30",
+        "time": "18",
+        "img": "https://media.self.com/photos/5ea9bc77bb9c6b75996c7e91/2:1/w_3949,h_1974,c_limit/squats_woman_exercise.jpg"
+    },
+    {
+        "id": "04",
+        "title": "Dumbbell rows",
+        "age": "20-30",
+        "time": "25",
+        "img": "https://d3h9ln6psucegz.cloudfront.net/wp-content/uploads/2022/03/Dumbbell-Row.jpg"
+    },
+    {
+        "id": "05",
+        "title": "Single-leg deadlifts",
+        "age": "20-30",
+        "time": "14",
+        "img": "https://media1.popsugar-assets.com/files/thumbor/j5gPVlYiDQr9IBsZyaspkXD7aLc/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2014/02/27/927/n/1922729/b9021e726b062c8f_kettlebell-photo/i/Single-Leg-Deadlift-Kettlebell.jpg"
+    },
+    {
+        "id": "06",
+        "title": "Side planks",
+        "age": "20-30",
+        "time": "10",
+        "img": "https://experiencelife.lifetime.life/wp-content/uploads/2021/07/bid-side-plank.jpg"
+    }
+]

@@ -1,0 +1,61 @@
+.details {
+    padding: 20px;
+}
+
+.details img {
+    width: 40px;
+    border-radius: 10px;
+}
+
+.profile {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.profile h6,
+p {
+    margin: 0;
+}
+
+.more-info {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(235, 240, 243);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px 0;
+}
+
+.more-info button {
+    padding: 5px;
+    border-radius: 50%;
+    background-color: rgb(228, 217, 204);
+    border: none;
+}
+
+.more-info button:hover {
+    background-color: burlywood;
+}
+
+.exercise {
+    margin: 50px 0;
+}
+
+.btn-activity {
+    border: none;
+    border-radius: 5px;
+    background-color: indianred;
+    padding: 10px 0;
+    width: 100%;
+    margin: 20px 0;
+}
+
+.btn-activity:hover {
+    background-color: rgb(241, 48, 48);
+}
+
+@media screen and (max-width: 576px) {
+    .details {
+        margin: auto;
+    }
+}

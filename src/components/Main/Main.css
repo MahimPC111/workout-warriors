@@ -1,0 +1,15 @@
+.card {
+    padding: 15px;
+    box-shadow: 0 0 1px black;
+}
+
+.card img {
+    height: 150px;
+}
+
+
+@media screen and (max-width: 576px) {
+    .card-container {
+        margin: auto;
+    }
+}
